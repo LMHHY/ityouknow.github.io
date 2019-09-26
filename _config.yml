@@ -17,8 +17,8 @@ favicon: favicon.ico
 
 repository: lmhhy/lmhhy.github.io
 github_url: https://github.com/lmhhy
-url: https://lmhhy.github.io
-enforce_ssl: credislife.cn
+url: https://www.credislife.cn
+enforce_ssl: www.credislife.cn
 
 ## Gem
 plugins:
